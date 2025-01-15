@@ -69,7 +69,7 @@ allowfullscreen></iframe>
 ## خمسة جيم
 <div style="text-align: center;">
   <img src="https://www2.0zz0.com/2025/01/15/02/127423418.gif" alt="خمسة جيم" style="width: 300px; height: 300px; object-fit: cover;">
-  <p style="margin-top: 10px; font-style: italic; color: gray;">خمسة أسئلة سريعة خفيفة مع المذيع المميز أبو كعبة وضيوفه</p>
+  <p style="margin-top: 10px; font-style: italic; color: gray;">خمسة أسئلة سريعة خفيفة مع المذيع المميز أبو كعبة وضيوفه | ضيف الأسبوع هو المحلل القدير نايف رايموند.</p>
 </div>
 
 <div class="qa-box">
