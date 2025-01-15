@@ -8,12 +8,11 @@ image:
   path: https://www2.0zz0.com/2025/01/15/05/295568554.jpg
 ---
 
-
 {:refdef: style="direction: rtl;"}
 > تعلن ادارة **#النشرة_الأربعائية_المستريحة**{:style="color: gold"} عن توقف خاصية التعليقات بعد أن كتب أحدهم تعليقات بذيئة وماعرفنا نمسحها حسبي الله ونعم الوكيل.
 {: refdef}
 ---
-
+&nbsp; 
 ## 🔻 البلانك الممتاز 🔻
 
 > لايوجد تحديثات نظرًا لعدم انتهاء الجولة 21 حتى الان.
@@ -26,7 +25,7 @@ image:
 </div>
 
 ---
-
+&nbsp; 
 ## سفطة
 
 ![مواضيع تجاهلتها](https://files.cdn-files-a.com/uploads/10174367/normal_677cb4150acae.gif){:width="100%" style="display:block; margin-left:auto; margin-right:auto" }
@@ -53,6 +52,7 @@ allowfullscreen></iframe>
     مقطع بدون تعليق
   </p>
 ---
+&nbsp; 
 ## توافه
 
 ![توافه](https://files.cdn-files-a.com/uploads/10174367/normal_677ca6e697571.png){:width="100%" style="display:block; margin-left:auto; margin-right:auto"  }
@@ -65,7 +65,7 @@ allowfullscreen></iframe>
 {: refdef}
 
 ---
-
+&nbsp; 
 ## خمسة جيم
 <div style="text-align: center;">
   <img src="https://www2.0zz0.com/2025/01/15/02/127423418.gif" alt="خمسة جيم" style="width: 300px; height: 300px; object-fit: cover;">
@@ -137,22 +137,22 @@ allowfullscreen></iframe>
         color: #4CAF50;
     }
 </style>
-
+&nbsp; 
 ![رايموند](https://www2.0zz0.com/2025/01/15/11/251845602.jpg){:width="100%" style="display:block; margin-left:auto; margin-right:auto" }
 <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">كيف وليه؟؟</p>
 
 ![مزح؟](https://www2.0zz0.com/2025/01/15/19/244926062.png){:width="100%" style="display:block; margin-left:auto; margin-right:auto" }
 <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">شغف وهواية</p>
+&nbsp; 
 
 ---
-
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://www.buymeacoffee.com/M0srte7" target="_blank" style="display: inline-block; background-color: #FFDD00; color: #000000; text-decoration: none; font-family: 'Cookie', cursive; font-size: 20px; padding: 10px 20px; border: 2px solid #000000; border-radius: 10px;">
     ☕ Buy أبو كعبة a coffee
   </a>
 </div>
-
 ---
+&nbsp; 
 ## بكسل الذهب
 {: .linear-wipe style="text-align: center;"}
 
