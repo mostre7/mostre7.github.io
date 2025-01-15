@@ -10,7 +10,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap');
 
 
+/* Apply Custom Styles */
+body {
+  font-family: 'Cairo', sans-serif;
+}
 
+h1, h2, h3, h4, h5, h6, p, ul, ol {
+  font-family: 'Cairo', sans-serif;  
+}
 
 /* Add linear-wipe effect for a specific element */
 .linear-wipe {
