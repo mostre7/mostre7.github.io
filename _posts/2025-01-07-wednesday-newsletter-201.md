@@ -26,6 +26,12 @@ image:
 
 ![نجم الجولة](https://files.cdn-files-a.com/uploads/10174367/normal_677ec1306be8b.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
 <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">⭐نجم الجولة</p>
+---
+<div style="text-align: center;">
+  <a href="https://fantasy.premierleague.com/leagues/auto-join/5sn21w" target="_blank" style="text-decoration: none; font-size: 18px; color: #128a68; font-weight: bold;">
+    الانضمام لدوري لوشن للمستريحين
+  </a>
+</div>
 
 ---
 
@@ -104,6 +110,22 @@ image:
         color: #4CAF50;
     }
 </style>
+
+![حمد](https://files.cdn-files-a.com/uploads/10174367/normal_677ec8d648969.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
+<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">هذا حمد</p>
+
+<div style="text-align: center;">
+  <video 
+    src="https://dso6.raed.net:447/files/vid.mp4" 
+    controls 
+    loop  
+    style="width: 600px; height: 500px; display: block; margin: 0 auto;">
+    Your browser does not support the video tag.
+  </video>
+  <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">
+    أبو كعبة في آخر ظهور وقصيدة تكتب بماء الذهب
+  </p>
+</div>
 
 ---
 
