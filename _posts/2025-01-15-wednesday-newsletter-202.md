@@ -8,7 +8,6 @@ image:
   path: https://www2.0zz0.com/2025/01/15/05/295568554.jpg
 ---
 
-# النشرة الأربعائية المستريحة [201]
 
 {:refdef: style="direction: rtl;"}
 > تعلن ادارة **#النشرة_الأربعائية_المستريحة**{:style="color: gold"} عن توقف خاصية التعليقات بعد أن كتب أحدهم تعليقات بذيئة وماعرفنا نمسحها حسبي الله ونعم الوكيل.
@@ -30,7 +29,7 @@ image:
 
 ## سفطة
 
-![مواضيع تجاهلتها](https://files.cdn-files-a.com/uploads/10174367/normal_677cb4150acae.gif){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
+![مواضيع تجاهلتها](https://files.cdn-files-a.com/uploads/10174367/normal_677cb4150acae.gif){:width="100%" style="display:block; margin-left:auto; margin-right:auto" }
 <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">أبرز المواضيع التي تم تاجهلها هذا الأسبوع</p>
 
 {:refdef: style="direction: rtl;"}
@@ -44,14 +43,19 @@ image:
 : بداية فترة الانتقالات الشتوية وعودة مشجعي روشن للتسول
 {: refdef}
 ---
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1047048679?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="مقطع بدون تعليق"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/AsInQrsrI0o"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
   <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">
     مقطع بدون تعليق
   </p>
 ---
 ## توافه
 
-![توافه](https://files.cdn-files-a.com/uploads/10174367/normal_677ca6e697571.png){:width="50%" style="display:block; margin-left:auto; margin-right:auto"  }
+![توافه](https://files.cdn-files-a.com/uploads/10174367/normal_677ca6e697571.png){:width="100%" style="display:block; margin-left:auto; margin-right:auto"  }
 
 {:refdef: style="direction: rtl;"}
 - صرت أتابع مع الوالد [*حروف مع عزيز*{:style="color: green; text-decoration: underline;"}](https://youtu.be/Chw9sZAj-7Y?si=b2NtHp2fmxSG1-v4).
@@ -69,9 +73,35 @@ image:
 </div>
 
 <div class="qa-box">
-    <div class="qa-header">❓ أبو كعبة: هل يوجد ضيف هذا الأسبوع</div>
+    <div class="qa-header">❓ أبو كعبة: ليش (رايموند)</div>
     <div class="qa-content">
-        <strong>الجواب:</strong> لا يوجد ضيف هذا لأسبوع، تم التواصل مع الشهير حمد (بروست لحم) لكن لم نتلقى أي رد
+        <strong>الجواب:</strong> نسبة الى القوت رايموند ريدنتغون أعظم شخصية في تاريخ التلفاز
+    </div>
+</div>
+<div class="qa-box">
+    <div class="qa-header">❓ أبو كعبة: تخصصك الجامعي </div>
+    <div class="qa-content">
+        <strong>الجواب:</strong> قانون
+    </div>
+</div>
+<div class="qa-box">
+    <div class="qa-header">❓ أبو كعبة: التحليل الفني، شغف ام هواية</div>
+    <div class="qa-content">
+        <strong>الجواب:</strong>  شغف وهواية
+    </div>
+</div>
+<div class="qa-box">
+    <div class="qa-header">❓ أبو كعبة: فسر لنا تغريدة العويس متسلل للمرة المليون</div>
+    <div class="qa-content">
+        <strong>الجواب:</strong> التغريدة كانت في مباراة الأهلي والعين كاس الملك 2021، النية كانت اني امدح العويس على تصدي قام فيه لكن ما حدث هو أنني وأنا اكتب التغريدة استقبلنا هدف ثاني لوكاس ليما كان كاسر التسلل فيه، فحدث تداخل بين التغريدتين
+    </div>
+</div>
+<div class="qa-box">
+    <div class="qa-header">❓ أبو كعبة: هل تشوف نفسك "مستريح"</div>
+    <div class="qa-content">
+        <strong>الجواب:</strong> الراحة الأبدية في جنات النعيم، الانسان في الدنيا يخوض تحديات وامتحانات فيما يحب ويعتقد.. أنا بمعنى أصح راضي ولست "مستريح"
+
+مع تحياتي لكل المستريحين
     </div>
 </div>
 
@@ -108,11 +138,11 @@ image:
     }
 </style>
 
-![رايموند](https://www2.0zz0.com/2025/01/15/11/251845602.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
+![رايموند](https://www2.0zz0.com/2025/01/15/11/251845602.jpg){:width="100%" style="display:block; margin-left:auto; margin-right:auto" }
 <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">كيف وليه؟؟</p>
 
-![مزح؟](https://www2.0zz0.com/2025/01/15/11/699760363.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
-<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">يحسبونه يمزح</p>
+![مزح؟](https://www2.0zz0.com/2025/01/15/19/244926062.png){:width="100%" style="display:block; margin-left:auto; margin-right:auto" }
+<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">شغف وهواية</p>
 
 ---
 
@@ -128,18 +158,18 @@ image:
 
 
 <div style="text-align: center;">
-  <img src="https://files.cdn-files-a.com/uploads/10174367/normal_677ec5974c871.jpg" alt="صورة 1" style="width: 50%; display: block; margin: 0 auto;">
-  <p style="text-align: center;"><a href="https://twitter.com/sForSaleh" target="_blank">@sForSaleh</a></p>
+  <img src="https://pbs.twimg.com/media/GgzrpMrW0AEo46O?format=jpg&name=large" alt="صورة 1" style="width: 100%; display: block; margin: 0 auto;">
+  <p style="text-align: center;"><a href="https://x.com/Na_Alhadi" target="_blank">@Na_Alhadi</a></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="https://files.cdn-files-a.com/uploads/10174367/normal_677ec65dbe8da.jpg" alt="صورة 2" style="width: 50%; display: block; margin: 0 auto;">
-  <p style="text-align: center;"><a href="https://twitter.com/iS54i" target="_blank">@iS54i</a></p>
+  <img src="https://pbs.twimg.com/media/GhIVDTZWcAAAo2C?format=jpg&name=large" alt="صورة 2" style="width: 100%; display: block; margin: 0 auto;">
+  <p style="text-align: center;"><a href="https://x.com/toki2t" target="_blank">@toki2t</a></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="https://files.cdn-files-a.com/uploads/10174367/normal_677ec6c3aeddd.jpg" alt="صورة 3" style="width: 50%; display: block; margin: 0 auto;">
-  <p style="text-align: center;"><a href="https://twitter.com/ilmvaI" target="_blank">@ilmvaI</a></p>
+  <img src="https://pbs.twimg.com/media/GhEu5hIXQAA4C4i?format=jpg&name=medium" alt="صورة 3" style="width: 100%; display: block; margin: 0 auto;">
+  <p style="text-align: center;"><a href="https://x.com/elAareU" target="_blank">@elAareU</a></p>
 </div>
 
 ---
