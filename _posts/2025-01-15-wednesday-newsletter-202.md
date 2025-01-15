@@ -9,22 +9,16 @@ image:
 ---
 
 # النشرة الأربعائية المستريحة [201]
-{:refdef: style="direction: rtl;"}
-> بشكل جديد أبسط وأكثر سلاسة تعود **#النشرة_الأربعائية_المستريحة**{:style="color: gold"} مرة أخرى مع بداية العام 2025م. إن الانقطاع الذي حدث في الفترة الماضية كان لعدة أسباب منها الاختلاف مع الموقع المقدم خدمة التدوين في الدومين السابق، وانشغال طاقم العمل بأمور حياتهم. ولكن ما مضى قد مضى وانقضى، والآن نعود مع وعود بالاستمرار قابلة للكسر.
 
-**- شريد aka مستريح**
+{:refdef: style="direction: rtl;"}
+> تعلن ادارة **#النشرة_الأربعائية_المستريحة**{:style="color: gold"} عن توقف خاصية التعليقات بعد أن كتب أحدهم تعليقات بذيئة وماعرفنا نمسحها حسبي الله ونعم الوكيل.
 {: refdef}
 ---
 
 ## 🔻 البلانك الممتاز 🔻
 
-![ترتيب دوري لوشن](https://files.cdn-files-a.com/uploads/10174367/normal_677ec1306be8b.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
-<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">ترتيب دوري لوشن للمستريحين - الجولة العشرين</p>
-
----
-
-![نجم الجولة](https://files.cdn-files-a.com/uploads/10174367/normal_677ec1306be8b.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
-<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">⭐نجم الجولة</p>
+> لايوجد تحديثات نظرًا لعدم انتهاء الجولة 21 حتى الان.
+{: .prompt-warning style="text-align: center; direction: rtl;" }
 ---
 <div style="text-align: center;">
   <a href="https://fantasy.premierleague.com/leagues/auto-join/5sn21w" target="_blank" style="text-decoration: none; font-size: 18px; color: #128a68; font-weight: bold;">
@@ -40,26 +34,30 @@ image:
 <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">أبرز المواضيع التي تم تاجهلها هذا الأسبوع</p>
 
 {:refdef: style="direction: rtl;"}
-حفيد تيته اليزابيث
-: الحديث عن احتفال محمد صلاح اصبح عادة سنوية في كل رأس سنة.
+ولع الملعب 🔥
+: حرائق لوس انجلوس تشغل العالم مابين متعاطف سبك وشمّات🤙
 
-جايين للقب؟
-: تصريح يونس محمود يثير الضجة والردود تأتيه من كل مكان
+عودة الدراسة 🎒
+: يعود الطلاب المجتهدون لمقاعد الدراسة لاستكمال أحد أطول الأعوام الدراسية. *- الله يعينهم يارب انا اجازتي ماخلصت وبتخرج بعد اربع شهور ان شاء الله* 
 
-لا ثالث
-: اسبوع هادئ قليل الأحداث المثيرة للجدل
+الجو بردان ❄️
+: بداية فترة الانتقالات الشتوية وعودة مشجعي روشن للتسول
 {: refdef}
 ---
-
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1047048679?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="مقطع بدون تعليق"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+  <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">
+    مقطع بدون تعليق
+  </p>
+---
 ## توافه
 
 ![توافه](https://files.cdn-files-a.com/uploads/10174367/normal_677ca6e697571.png){:width="50%" style="display:block; margin-left:auto; margin-right:auto"  }
 
 {:refdef: style="direction: rtl;"}
-- حاولت متابعة *The Office*{:style="color: green"} للمرة الثالثة.. ما قدرت.
-- *نهائي السوبر الإيطالي*{:style="color: green"} هو أفضل متش شاهدته في الموسم الكروي هذا.
-- *هل تعلم*{:style="color: green"} أن الأخطبوط يحلم وهو نائم مثلنا؟
-- اختبرت آخر اختبار في ديسمبر في حياتي. تقييمي للفصل الدراسي ما قبل الختامي هو *9.5/10*{:style="color: green"}.
+- صرت أتابع مع الوالد [*حروف مع عزيز*{:style="color: green; text-decoration: underline;"}](https://youtu.be/Chw9sZAj-7Y?si=b2NtHp2fmxSG1-v4).
+- تقييمي لآخر إجازة بين فصلين بحياتي *9.1/10*{:style="color: green"}، ولولا المرض + حر جدة لأخذت الفل مارك.
+- قدرت أوصل لدقيقتين و20 ثانية بتمرين *البلانك*{:style="color: green"}.
+- *هل تعلم*{:style="color: green"} أن اليهود يحرمون أكل الجمبري.
 {: refdef}
 
 ---
@@ -110,21 +108,11 @@ image:
     }
 </style>
 
-![حمد](https://files.cdn-files-a.com/uploads/10174367/normal_677ec8d648969.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
-<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">هذا حمد</p>
+![رايموند](https://www2.0zz0.com/2025/01/15/11/251845602.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
+<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">كيف وليه؟؟</p>
 
-<div style="text-align: center;">
-  <video 
-    src="https://dso6.raed.net:447/files/vid.mp4" 
-    controls 
-    loop  
-    style="width: 600px; height: 500px; display: block; margin: 0 auto;">
-    Your browser does not support the video tag.
-  </video>
-  <p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">
-    أبو كعبة في آخر ظهور وقصيدة تكتب بماء الذهب
-  </p>
-</div>
+![مزح؟](https://www2.0zz0.com/2025/01/15/11/699760363.jpg){:width="50%" style="display:block; margin-left:auto; margin-right:auto" }
+<p style="margin-top: 10px; font-style: italic; color: gray; text-align: center;">يحسبونه يمزح</p>
 
 ---
 
